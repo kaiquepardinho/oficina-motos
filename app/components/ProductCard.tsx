@@ -16,7 +16,7 @@ export default function ProductCard({
   imagem,
 }: ProductCardProps) {
   return (
-    <div className="border-2 border-white rounded-lg overflow-hidden shadow-md hover:shadow-red-600/50 hover:border-red-500 hover:-translate-y-1 transition-all duration-300 flex flex-col w-[350px]">
+    <div className="border-2 border-white rounded-lg overflow-hidden shadow-md hover:shadow-red-600/50 hover:border-red-500 hover:-translate-y-1 transition-all duration-300 flex flex-col w-[280px] sm:w-[320px] md:w-[350px]">
 
 <Image
   src={imagem}
