@@ -5,7 +5,7 @@ export const produtos = [
     categoria: "Cabeçote",
     descricao: "Preparado para alta performance",
     aplicacao: "Honda CG 160",
-    imagem: "/produtos/cabecote.jpeg",
+    imagem: "/produtos/cabecote.jpg",
   },
 
   {
@@ -14,7 +14,7 @@ export const produtos = [
     categoria: "Cabeçote",
     descricao: "Retificado e preparado",
     aplicacao: "Titan 160",
-    imagem: "/produtos/cabecote.jpeg",
+    imagem: "/produtos/cabecote.jpg",
   },
 
   {
@@ -23,7 +23,7 @@ export const produtos = [
     categoria: "Cabeçote",
     descricao: "Retificado e preparado",
     aplicacao: "Titan 160",
-    imagem: "/produtos/cabecote.jpeg",
+    imagem: "/produtos/cabecote.jpg",
   },
 
   {
@@ -32,7 +32,7 @@ export const produtos = [
     categoria: "Cilindro",
     descricao: "Kit para preparação",
     aplicacao: "CG 160",
-    imagem: "/produtos/cilindro.jpeg",
+    imagem: "/produtos/cilindro.jpg",
   },
 
   {
@@ -41,7 +41,7 @@ export const produtos = [
     categoria: "Cilindro",
     descricao: "Alta performance",
     aplicacao: "Titan",
-    imagem: "/produtos/cilindro.jpeg",
+    imagem: "/produtos/cilindro.jpg",
   },
 
   {
@@ -50,7 +50,7 @@ export const produtos = [
     categoria: "Cilindro",
     descricao: "Alta performance",
     aplicacao: "Titan",
-    imagem: "/produtos/cilindro.jpeg",
+    imagem: "/produtos/cilindro.jpg",
   },
 
   {
@@ -59,7 +59,7 @@ export const produtos = [
     categoria: "Pistão",
     descricao: "Alta resistência",
     aplicacao: "Diversas motos",
-    imagem: "/produtos/pistao.jpeg",
+    imagem: "/produtos/pistao.jpg",
   },
 
   {
@@ -68,7 +68,7 @@ export const produtos = [
     categoria: "Pistão",
     descricao: "Alta resistência",
     aplicacao: "Diversas motos",
-    imagem: "/produtos/pistao.jpeg",
+    imagem: "/produtos/pistao.jpg",
   },
 
   {
@@ -77,6 +77,6 @@ export const produtos = [
     categoria: "Pistão",
     descricao: "Alta resistência",
     aplicacao: "Diversas motos",
-    imagem: "/produtos/pistao.jpeg",
+    imagem: "/produtos/pistao.jpg",
   },
 ];
